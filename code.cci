@@ -1,0 +1,5 @@
+VERSION:3 SOURCE_TIMESTAMP:459600BA
+NODE:I LEVEL:0 LINE:23 "C:\Program Files (x86)\Atmel\CodeVisionAVR\inc\tiny2313.h"
+NODE:I LEVEL:0 LINE:26 "C:\Program Files (x86)\Atmel\CodeVisionAVR\inc\i2c.h"
+NODE:F LEVEL:0 LINE:30 "read_data(unsigned int * imass)"
+NODE:F LEVEL:0 LINE:56 "main(void)"
